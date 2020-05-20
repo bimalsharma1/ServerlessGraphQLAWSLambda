@@ -1,0 +1,13 @@
+{
+    "apiKey": "",
+    "bucket": "GL.nonprod.deploy",
+    "networkStackName": "Connect2-NonProd",
+    "package": "GraphQL.zip",
+    "server": "",
+    "stage": "dev",
+    "protocol": "https",
+    "domain": "apricotsoftware.com.au",
+    "costcentre": "",
+    "billing": "AA",
+    "logVerbosity": "Info"
+}
